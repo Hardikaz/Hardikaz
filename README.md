@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sharmahardikaz@gmail.com**
 
-- ⚡ Fun fact **It seems to be !true but it is false**
+- ⚡ Fun fact **It seems to be !true but it is not**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
