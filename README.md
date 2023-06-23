@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
 <h3 align="center">MERN-Stack developer || Competitive Coder || Oper source Contributor </h3>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
