@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **web development projects**
+- 👯 I’m looking to collaborate on **web development projects,MERN Projects and front-end designing projects**
 
 - 📫 How to reach me **sharmahardikaz@gmail.com**
 
