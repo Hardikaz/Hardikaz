@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
-<h3 align="center">MERN-Stack developer || Competitive Coder || Oper source Contributor </h3>
+<h3 align="center">MERN-Stack developer || Competitive Coder || Oper source Contributor || Believer</h3>
 
 - 🌱 I’m currently learning **Backend Development**
 
